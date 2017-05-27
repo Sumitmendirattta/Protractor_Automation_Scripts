@@ -1,0 +1,1 @@
+{"description":"should not let you log into the application when user enters only  userid|The application","passed":true,"pending":false,"os":"Windows NT","browser":{"name":"chrome","version":"58.0.3029.110"},"message":"Passed.","trace":"","screenShotFile":"00d8009c-00f3-0082-0062-00e500cb00f3.png"}
